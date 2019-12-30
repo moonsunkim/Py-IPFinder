@@ -1,4 +1,5 @@
 # -*- coding: UTF-8 -*-
+__author__ = 'moonsun'
 #pyinstaller --onefile ip_changer.py
 import wmi, sys, os
 
